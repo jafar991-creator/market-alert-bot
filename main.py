@@ -7,7 +7,6 @@ import os
 from datetime import datetime
 
 8710953134:AAE9mINQB8kNGRKn4tQS4oaoa57-y1c1HLs
-
 CHAT_ID = "1079604938"
 CHECK_INTERVAL = 300
 
