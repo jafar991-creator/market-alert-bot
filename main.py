@@ -6,7 +6,8 @@ import json
 import os
 from datetime import datetime
 
-BOT_TOKEN = "8710953134:AAEIU14qhq03ssGfnnTvI_7D0xqImr9-0Pg"
+8710953134:AAE9mINQB8kNGRKn4tQS4oaoa57-y1c1HLs
+
 CHAT_ID = "1079604938"
 CHECK_INTERVAL = 300
 
